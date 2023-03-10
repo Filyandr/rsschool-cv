@@ -1,5 +1,7 @@
 # Philipp Kotelevets
 
+![My photo](./assets/photo.jpg)
+
 ## Contact information:
 + Phone: +7 917 168 51 71
 + E-mail: philippkotelevets@gmail.com
