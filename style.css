@@ -1,0 +1,50 @@
+body {
+    margin: 10px 200px;
+    background: linear-gradient(rgba(223, 223, 45, 0.62), rgba(221, 127, 3, 0.850));
+}
+
+header {
+    color: rgb(92, 56, 209);
+}
+
+h1 {
+    color: rgb(92, 56, 209);
+    font-size: 40px;
+}
+
+.navigation a {
+    font-size: 1.5rem;
+    text-decoration:none;
+    color: rgb(92, 56, 209);
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+header {
+    display: inline-flex;
+    gap: 50px;
+    background-color: rgba(221, 127, 3, 0.51);
+    border-radius: 20px;
+    padding: 15px 30px;
+    flex-grow: 1;
+    width: 100%;
+}
+
+h2 {
+font-size: 35px;
+}
+
+.photo-container {
+    border-radius: 50%;
+}
+
+.photo-container img {
+    max-width: 300px;
+    border-radius: 25px;
+}
