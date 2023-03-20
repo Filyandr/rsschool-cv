@@ -1,1 +1,1 @@
-https://filyandr.github.io/rsschool-cv/cv
+https://filyandr.github.io/rsschool-cv/
